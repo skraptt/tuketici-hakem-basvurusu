@@ -60,5 +60,5 @@ Ekler: [Belge listesi]
 - Taraflar karara, tebliğden itibaren 15 gün içinde tüketici mahkemesine
   itiraz edebilir (6502 m.70). İtiraz kural olarak kararın icrasını
   durdurmaz; mahkeme durdurma kararı verebilir.
-- Firma karara uymazsa karar icra yoluyla takip edilebilir; bunun için
-  `icra-takip-talebi` skill'ine bak (ilamlı takip).
+- Firma karara uymazsa karar ilamlı icra yoluyla takip edilebilir; bu
+  aşamada bir avukata danışılmasını öner.
